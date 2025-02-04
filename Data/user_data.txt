@@ -1,0 +1,5 @@
+mahim	mahim@aiub	21	Male	mahim123
+Fabliha	fabliha@aiub	21	Female	456
+user	user@aiub	21	Male	123
+Marrow	Marrow@Cat	5	Male	123
+Amily	amily@aiub	21	Female	786565
