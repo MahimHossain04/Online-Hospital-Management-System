@@ -1,4 +1,0 @@
-mahim	mahim@aiub	21	Male	mahim123
-Fabliha	fabliha@aiub	21	Female	456
-user	user@aiub	21	Male	123
-user12	user12@aiub	21	Male	alkd
